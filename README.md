@@ -1,7 +1,6 @@
 # This is a headline
 
 this is text only
-this is stupid text only
 
 ## Plan
 
