@@ -4,5 +4,5 @@ this is text only
 
 ## Plan
 
-- 1. Month: blub
-- 2. Month: bla
+# 0. Month: blub
+# 1. Month: bla
