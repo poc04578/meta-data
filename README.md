@@ -1,3 +1,9 @@
-# Das ist eine Ueberschrift
-das ist keine Ueberschrift
-das ist einfach nur Text
+# This is a headline
+
+this is text only
+this is stupid text only
+
+## Plan
+
+- 1. Month: blub
+- 2. Month: bla
